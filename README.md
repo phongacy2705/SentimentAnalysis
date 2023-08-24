@@ -15,4 +15,5 @@ Vì vậy các mô hình học máy đã ra đời để giải quyết bài to�
 bài toán là nhận diện cảm xúc của bình luận kèm theo khía cạnh của nó.
 • Input : một bình luận tiếng Việt
 • Output : khía cạnh + cảm xúc
+
 ![image](https://github.com/phongacy2705/SentimentAnalysis/assets/142887546/47f94840-a9f8-4ffd-9c44-57caa1870233)
