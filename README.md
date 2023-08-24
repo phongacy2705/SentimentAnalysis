@@ -1,8 +1,11 @@
 GIỚI THIỆU MÔN HỌC
 
 Tên môn học: Đồ án khoa học dữ liệu và ứng dụng
+
 Mã môn học: DS203.L21
+
 Giảng viên: Thầy Nguyễn Văn Kiệt
+
 MỤC TIÊU ĐỒ ÁN
 
 Nhận diện cảm xúc văn bản là một trong những bài toán phổ biến nhất trong
